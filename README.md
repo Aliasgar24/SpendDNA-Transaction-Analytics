@@ -1,4 +1,8 @@
 # 💳 SpendDNA – Transaction Analytics
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab)
 
 A Python-based transaction analytics project that analyzes bank transactions to generate spending insights, detect anomalies, and identify financial spending archetypes.
 
